@@ -106,10 +106,11 @@ MTD vs. Last Month MTD<br/>
 Orders and GMV Range Distribution Report(MTD)<br/>
 Generate a distribution report for Orders and GMV based on predefined range segments.<br/>
 Format:<br/>
+<pre>
 "Order Range" "Order Count"  "GMV Range" "GMV Value"<br/>
 1-5            X              0-500       Y<br/>
 6-10           X              501-1000    Y
-
+</pre>
 Tools and Platforms:
 
 MySQL Workbench: Used for executing SQL queries and generating reports dynamically.<br/>
