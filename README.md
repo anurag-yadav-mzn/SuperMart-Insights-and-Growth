@@ -47,7 +47,7 @@ store_cities_v1: Includes store type and location-specific details.<br/>
 Dynamic Date Functionality:<br/>
 The queries are designed with a dynamic date component to ensure automated reporting for daily, MTD, LMTD, and LM data without manual intervention.
 
-Key Metrics Analyzed:
+Key Metrics Analyzed:<br/>
 Orders: Total count of customer orders.<br/>
 GMV: Gross Merchandise Value, reflecting the total value of goods sold.<br/>
 Revenue: Net earnings after discounts and refunds.<br/>
@@ -55,6 +55,7 @@ Customers: Total number of unique customers.<br/>
 Live Products: Count of active products available for purchase.<br/>
 Live Stores: Number of operational stores.<br/>
 Growth %: Percentage change in performance metrics over comparable timeframes.<br/>
+
 Expected Outcomes:<br/>
 Identification of top-performing categories, brands, and products.<br/>
 Insights into customer behavior and regional performance trends by store type.<br/>
@@ -72,6 +73,7 @@ Yesterday, Month-to-Date (MTD), and Last Month (LM)<br/>
 Compute Growth % for:<br/>
 Yesterday vs. Previous Day<br/>
 MTD vs. Last Month MTD<br/>
+
 
 Top 20 Brands Performance Report<br/>
 Identify Top 20 Brands based on GMV and generate reports on:<br/>
