@@ -12,6 +12,7 @@ Category Level Report: Analyze metrics such as Orders, GMV, Revenue, Customers, 
 Top 20 Brands Report: Identify the top-performing brands (based on GMV) and evaluate key metrics for yesterday's data, including growth trends.<br/>
 Top 50 Products Report: Examine the performance of the top products (based on GMV), including their associated brands, to uncover sales and growth patterns for yesterday's data.<br/>
 StoreType_Id Report: Assess store-type performance based on Orders, GMV, Revenue, Customers, Live Products, and Live Stores for yesterday's data, including growth comparisons.<br/>
+
 Part 2: Month-To-Date (MTD) Insights<br/>
 Track cumulative monthly performance for deeper trend analysis:
 
@@ -19,6 +20,7 @@ Category Level Report: Provide an MTD summary of Orders, GMV, Revenue, Customers
 Top 20 Brands Report: Highlight the top-performing brands for the MTD period, showcasing key metrics and their growth trends.<br/>
 Top 50 Products Report: Focus on top product-level performance for the MTD period, including product and brand details.<br/>
 StoreType_Id Report: Analyze store-type performance metrics for the MTD period, identifying growth trends.<br/>
+
 Part 3: Last Month-To-Date (LMTD) Insights<br/>
 Compare performance trends by analyzing last month's data until the same day as the current period:
 
@@ -26,6 +28,7 @@ Category Level Report: Generate LMTD metrics such as Orders, GMV, Revenue, Custo
 Top 20 Brands Report: Evaluate top-performing brands during the LMTD period, highlighting growth trends and sales contributions.<br/>
 Top 50 Products Report: Identify leading products based on GMV for the LMTD period, including brand and product details.<br/>
 StoreType_Id Report: Assess LMTD store-type performance with key metrics and growth rates.<br/>
+
 Part 4: Last Month (LM) Insights<br/>
 Provide a comprehensive analysis of last month's performance to identify recurring trends:
 
@@ -33,6 +36,7 @@ Category Level Report: Summarize LM metrics, including Orders, GMV, Revenue, Cus
 Top 20 Brands Report: Identify the best-performing brands for LM, highlighting their contributions and growth trends.<br/>
 Top 50 Products Report: Explore LM performance at the product level, including GMV contributions and associated brand insights.<br/>
 StoreType_Id Report: Analyze store-type performance for LM, identifying growth trends and patterns.<br/>
+
 Technical Implementation:<br/>
 Data Sources:
 
@@ -55,6 +59,7 @@ Expected Outcomes:<br/>
 Identification of top-performing categories, brands, and products.<br/>
 Insights into customer behavior and regional performance trends by store type.<br/>
 Automated, dynamic reports for real-time decision-making and long-term planning.<br/>
+
 Enhanced ability to track growth and performance across different timeframes, driving better resource allocation and strategy formulation.<br/>
 This project forms the foundation for a data-driven approach to improving retail operations, optimizing inventory, and enhancing customer satisfaction at SuperMart.
 
