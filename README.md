@@ -105,9 +105,9 @@ MTD vs. Last Month MTD<br/>
  
 Orders and GMV Range Distribution Report(MTD)<br/>
 Generate a distribution report for Orders and GMV based on predefined range segments.<br/>
-Format:
-"Order Range" "Order Count"  "GMV Range" "GMV Value"
-1-5            X              0-500       Y
+Format:<br/>
+"Order Range" "Order Count"  "GMV Range" "GMV Value"<br/>
+1-5            X              0-500       Y<br/>
 6-10           X              501-1000    Y
 
 Tools and Platforms:
